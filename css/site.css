@@ -651,6 +651,7 @@ summary {
 summary::after {
   content: "\2b";
   position: absolute;
+
   left: 90%;
   bottom: 30%;
   color: #eafa72;
